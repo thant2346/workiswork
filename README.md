@@ -1,2 +1,4 @@
 # workiswork
-Work
+<?PHP
+   Echo 'hello world';
+?>
